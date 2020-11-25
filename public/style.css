@@ -1,32 +1,16 @@
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
-	text-align: center;
-	line-height: 1.4em;
+body{
+    text-align: center;
+    background-color: #264653;
 }
 
-.container {
-	padding: 0;
-	margin-top: 40px;
+h1{
+    color: #e76e50;
+    margin-bottom: 20px;
 }
 
-h3 {
-  margin-top: 30px;
-}
-
-.footer {
-	margin-top: 40px;
-}
-
-code {
-  font-family: monospace;
-  padding: 2px;
-  color: black;
-  background-color: #fff;
-}
-
-a {
-	color: #2574A9;
+#link{
+    color: #343a40;
+    background-color: #e8c468;
+    padding: 4px;
+    border-radius: 3px;
 }
